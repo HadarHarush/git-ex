@@ -24,6 +24,9 @@ h6 {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     text-transform: uppercase;
 }
+.hide {
+    display: none;
+}
 section {
     padding: 100px 0;
 }
